@@ -1,3 +1,2 @@
 # Card Order Tests
-
-Автоматизированные тесты формы заказа карты с использованием Selenium WebDriver и JUnit 5.
+[![Java CI with Gradle](https://github.com/AleksandrQAspb/card-order-tests/actions/workflows/gradle.yml/badge.svg)](https://github.com/AleksandrQAspb/card-order-tests/actions/workflows/gradle.yml)
